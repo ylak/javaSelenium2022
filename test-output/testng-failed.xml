@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [All Test Suite]">
+  <test thread-count="5" name="C:/Users/yamini/Desktop/Java_Tutorial/javaSelenium(failed)">
+    <classes>
+      <class name="tests.ExtentReportDemo_TestNG">
+        <methods>
+          <include name="searchTest"/>
+          <include name="setUpTest"/>
+          <include name="tearDown"/>
+        </methods>
+      </class> <!-- tests.ExtentReportDemo_TestNG -->
+    </classes>
+  </test> <!-- C:/Users/yamini/Desktop/Java_Tutorial/javaSelenium(failed) -->
+</suite> <!-- Failed suite [All Test Suite] -->
