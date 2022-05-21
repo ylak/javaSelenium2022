@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="5" passed="5">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Selenium Test Cases" duration-ms="46451" started-at="2022-05-21T17:30:46 IST" finished-at="2022-05-21T17:31:33 IST">
+    <groups>
+    </groups>
+    <test name="Selenium Test Cases" duration-ms="46451" started-at="2022-05-21T17:30:46 IST" finished-at="2022-05-21T17:31:33 IST">
+      <class name="tests.Testng_Demo1">
+        <test-method status="PASS" signature="setUpTest()[pri:0, instance:tests.Testng_Demo1@462d5aee]" name="setUpTest" is-config="true" duration-ms="4213" started-at="2022-05-21T17:30:48 IST" finished-at="2022-05-21T17:30:52 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpTest -->
+        <test-method status="PASS" signature="searchTest()[pri:0, instance:tests.Testng_Demo1@462d5aee]" name="searchTest" duration-ms="20371" started-at="2022-05-21T17:30:52 IST" finished-at="2022-05-21T17:31:12 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- searchTest -->
+        <test-method status="PASS" signature="tearDownTest()[pri:0, instance:tests.Testng_Demo1@462d5aee]" name="tearDownTest" is-config="true" duration-ms="6772" started-at="2022-05-21T17:31:26 IST" finished-at="2022-05-21T17:31:33 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDownTest -->
+      </class> <!-- tests.Testng_Demo1 -->
+      <class name="Testng_Demo2">
+        <test-method status="PASS" signature="setUpTest()[pri:0, instance:Testng_Demo2@2db7a79b]" name="setUpTest" is-config="true" duration-ms="1651" started-at="2022-05-21T17:30:46 IST" finished-at="2022-05-21T17:30:48 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpTest -->
+        <test-method status="PASS" signature="clickShopByCatComp()[pri:0, instance:Testng_Demo2@2db7a79b]" name="clickShopByCatComp" duration-ms="13731" started-at="2022-05-21T17:30:52 IST" finished-at="2022-05-21T17:31:06 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clickShopByCatComp -->
+        <test-method status="PASS" signature="tearDownTest()[pri:0, instance:Testng_Demo2@2db7a79b]" name="tearDownTest" is-config="true" duration-ms="12784" started-at="2022-05-21T17:31:13 IST" finished-at="2022-05-21T17:31:26 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDownTest -->
+      </class> <!-- Testng_Demo2 -->
+      <class name="tests.ExtentReportDemo_TestNG">
+        <test-method status="PASS" signature="setUpTest()[pri:0, instance:tests.ExtentReportDemo_TestNG@192d3247]" name="setUpTest" is-config="true" duration-ms="13392" started-at="2022-05-21T17:30:33 IST" finished-at="2022-05-21T17:30:46 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpTest -->
+        <test-method status="PASS" signature="footerComp()[pri:0, instance:tests.ExtentReportDemo_TestNG@192d3247]" name="footerComp" duration-ms="4062" started-at="2022-05-21T17:30:52 IST" finished-at="2022-05-21T17:30:56 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- footerComp -->
+        <test-method status="PASS" signature="searchTest()[pri:0, instance:tests.ExtentReportDemo_TestNG@192d3247]" name="searchTest" duration-ms="16881" started-at="2022-05-21T17:30:56 IST" finished-at="2022-05-21T17:31:13 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- searchTest -->
+        <test-method status="PASS" signature="shopByCatComp()[pri:0, instance:tests.ExtentReportDemo_TestNG@192d3247]" name="shopByCatComp" duration-ms="32" started-at="2022-05-21T17:31:13 IST" finished-at="2022-05-21T17:31:13 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- shopByCatComp -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:tests.ExtentReportDemo_TestNG@192d3247]" name="tearDown" is-config="true" duration-ms="1383" started-at="2022-05-21T17:31:33 IST" finished-at="2022-05-21T17:31:34 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- tests.ExtentReportDemo_TestNG -->
+    </test> <!-- Selenium Test Cases -->
+  </suite> <!-- Selenium Test Cases -->
+</testng-results>
