@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Selenium Test Cases" parallel="classes">
+    <test thread-count="5" verbose="2" preserve-order="true" name="Selenium Test Cases" parallel="classes">
+        <classes>
+            <class name="tests.Testng_Demo1"/>
+            <class name="tests.Testng_Demo2"/>
+            <class name="tests.ExtentReportDemo_TestNG"/>
+        </classes>
+    </test>
+</suite>
